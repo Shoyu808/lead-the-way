@@ -7,9 +7,9 @@
 body {
     background-color: #d9dcd6;
 }
-/*
-Renamed all of divs to header so all the css codes focuses on the header
-*/
+
+/* Renamed all of divs to header so all the css codes focuses on the header */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
