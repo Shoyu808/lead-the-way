@@ -8,7 +8,7 @@
 #### *Hello everyone and welcome to the Horiseon Repository!* 
 
 My name is Dexter James Paloma and I'll explain what this repository is all about. So our goal with Horiseon is to market our search engine optimization. With that being said our company helps putting your buisness out there on the web and finding the customers you need.
-Here is the link to the Horiseon website: [Horiseon](file:///C:/Users/Southside%20Scavengers/lead-the-way/index.html)
+Here is the link to the Horiseon website: [Horiseon](https://shoyu808.github.io/lead-the-way/)
 
 ## *How to get Repository*
 
@@ -33,7 +33,8 @@ What you'll need to have to get this *Repository* is to make sure you you got [V
 #### *New css file*
 ![Image-of-new-css](https://github.com/Shoyu808/lead-the-way/blob/main/assets/images/Screenshot%20(7).png?raw=true)
 
-The changes I have changed on the html files are the < div > tags as shown in the screenshot. Reason being why I changed all of the < div > tags are to have no confusion on the divided sections. 
+The changes I have changed on the html files are the < div > tags as shown in the screenshot. Reason being why I changed all of the < div > tags are to have no confusion on the divided sections. The tags I replaced the < div > tags with are called *Html Semantic Tags* and html semantic tags are typically like a < div > tag but more specific. For example one of the tags I've used is . 
+
 
 
 
