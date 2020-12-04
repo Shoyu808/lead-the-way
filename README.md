@@ -54,10 +54,11 @@ I would like to give credits to:
 * [Github-Guide](https://guides.github.com/features/mastering-markdown/)
 * [Badge-link](https://shields.io/)
 * [Microsoft](https://github.com/microsoft/vscode)
+* [Choose-a-license](https://choosealicense.com)
 
 ## *License*
 
-Copyright (C) 2007 Free Software Foundation, Inc.
+Copyright (C) 2020 Free Software Foundation, Inc.
 
 Licensed under the [GNU](https://choosealicense.com/licenses/gpl-3.0/) license. 
 
