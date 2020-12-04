@@ -19,6 +19,11 @@ What you'll need to have to get this *Repository* is to make sure you you got [V
 When I received the html/css files this is how it looked before I cleaned the file.
 
 #### *Html file*
+![Image-of-html](https://lh3.googleusercontent.com/O8H22OxGoxO2FOsK0N32ABoyE4uJhB0scS1WoZWLAEDpo0LvtOFVIzoXTeP8ZL6yb-VJ9d0=s156)
+
+#### *Css file*
+![Image-of-css](https://lh3.googleusercontent.com/5CJ32HGbqYxvC5rV1esi6zEU94MkdCbthXC2o9Yn-zZuRjDiiMW_hQpt6Nkqq-UMjJDbUkY=s156)
+
 
 
 
