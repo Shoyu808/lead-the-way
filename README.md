@@ -35,7 +35,29 @@ What you'll need to have to get this *Repository* is to make sure you you got [V
 
 The changes I have changed on the html files are the < div > tags as shown in the screenshot. Reason being why I changed all of the < div > tags are to have no confusion on the divided sections. The tags I replaced the < div > tags with are called *Html Semantic Tags* and html semantic tags are typically like a < div > tag but more specific. For example one of the tags I've used is nav. I used the < nav > tag instead of < div > to specify that the section will be a navigation bar. Here is a screenshot of the nav bar.
 
-![Image-of-nav-bar]()
+![Image-of-nav-bar](https://github.com/Shoyu808/lead-the-way/blob/main/assets/images/Screenshot%20(8).png?raw=true)
+
+For the CSS changes I have made was to combine all class selectors together that shared the same CSS properties. In the screenshot of the old CSS you'll see that there are alot of class selectors that had the same CSS properties. It just made the the whole CSS stylesheet really long and I find that inconvenient for the person reading the file so it doesn't waste their time. It also makes the CSS file look more cleaner and I had to rename some of the class selectors due to the < div > tags. This is one of the examples of the CSS changes.
+
+![Image-of-css-changes](https://github.com/Shoyu808/lead-the-way/blob/main/assets/images/Screenshot%20(9).png?raw=true)
+
+There are also comments that I have put on the file to describe what I'm doing with the html/css files if you want to know more about the file.
+
+## *Credits*
+
+Here is where I learned and got most of my information on here. 
+I would like to give credits to:
+
+* Zac Heisey [Link-to-article-on-html-semantics](https://medium.com/@zac_heisey/7-alternatives-to-the-div-html-tag-7c888c7b5036)
+* [w3schools.com](https://w3schools.com)
+* [Vscode](code.visualstudio.com)
+* [Github-Guide](https://guides.github.com/features/mastering-markdown/)
+* [Badge-link](https://shields.io/)
+
+ 
+
+
+
 
 
 
