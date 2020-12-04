@@ -33,7 +33,9 @@ What you'll need to have to get this *Repository* is to make sure you you got [V
 #### *New css file*
 ![Image-of-new-css](https://github.com/Shoyu808/lead-the-way/blob/main/assets/images/Screenshot%20(7).png?raw=true)
 
-The changes I have changed on the html files are the < div > tags as shown in the screenshot. Reason being why I changed all of the < div > tags are to have no confusion on the divided sections. The tags I replaced the < div > tags with are called *Html Semantic Tags* and html semantic tags are typically like a < div > tag but more specific. For example one of the tags I've used is . 
+The changes I have changed on the html files are the < div > tags as shown in the screenshot. Reason being why I changed all of the < div > tags are to have no confusion on the divided sections. The tags I replaced the < div > tags with are called *Html Semantic Tags* and html semantic tags are typically like a < div > tag but more specific. For example one of the tags I've used is nav. I used the < nav > tag instead of < div > to specify that the section will be a navigation bar. Here is a screenshot of the nav bar.
+
+![Image-of-nav-bar]()
 
 
 
