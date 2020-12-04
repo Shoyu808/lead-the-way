@@ -24,6 +24,11 @@ When I received the html/css files this is how it looked before I cleaned the fi
 #### *Css file*
 ![Image-of-css](https://github.com/Shoyu808/lead-the-way/blob/main/assets/images/Screenshot%20(5).png?raw=true)
 
+This is how the new html/css files looks if you haven't had a chance to look at it.
+
+#### *New html file*
+![Image-of-new-html]()
+
 
 
 
