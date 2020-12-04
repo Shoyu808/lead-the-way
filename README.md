@@ -53,8 +53,14 @@ I would like to give credits to:
 * [Vscode](code.visualstudio.com)
 * [Github-Guide](https://guides.github.com/features/mastering-markdown/)
 * [Badge-link](https://shields.io/)
+* [Microsoft](https://github.com/microsoft/vscode)
 
- 
+## *License*
+
+Copyright (C) 2007 Free Software Foundation, Inc.
+
+Licensed under the [GNU](https://choosealicense.com/licenses/gpl-3.0/) license. 
+
 
 
 
