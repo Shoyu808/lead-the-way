@@ -16,7 +16,7 @@ What you'll need to have to get this *Repository* is to make sure you you got [V
 
 ## *About the html/css*
 
-When I received the html/css files this is how it looked before I cleaned the file.
+### This is a screenshot of how the html/css files looked before I cleaned the file.
 
 #### *Html file*
 ![Image-of-html](https://github.com/Shoyu808/lead-the-way/blob/main/assets/images/Screenshot%20(4).png?raw=true)
@@ -24,10 +24,16 @@ When I received the html/css files this is how it looked before I cleaned the fi
 #### *Css file*
 ![Image-of-css](https://github.com/Shoyu808/lead-the-way/blob/main/assets/images/Screenshot%20(5).png?raw=true)
 
-This is how the new html/css files looks if you haven't had a chance to look at it.
+
+### This is the new html/css files that I have edited.
 
 #### *New html file*
-![Image-of-new-html]()
+![Image-of-new-html](https://github.com/Shoyu808/lead-the-way/blob/main/assets/images/Screenshot%20(6).png?raw=true)
+
+#### *New css file*
+![Image-of-new-css](https://github.com/Shoyu808/lead-the-way/blob/main/assets/images/Screenshot%20(7).png?raw=true)
+
+The changes I have changed on the html files are the < div > tags as shown in the screenshot. Reason being why I changed all of the < div > tags are to have no confusion on the divided sections. 
 
 
 
