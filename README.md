@@ -8,7 +8,17 @@
 #### *Hello everyone and welcome to the Horiseon Repository!* 
 
 My name is Dexter James Paloma and I'll explain what this repository is all about. So our goal with Horiseon is to market our search engine optimization. With that being said our company helps putting your buisness out there on the web and finding the customers you need.
+Here is the link to the Horiseon website: [Horiseon](file:///C:/Users/Southside%20Scavengers/lead-the-way/index.html)
 
 ## *How to get Repository*
 
-What you'll need to do to get this *Repository* is to make sure you have a github account on [Github](http://github.com). 
+What you'll need to have to get this *Repository* is to make sure you you got [Vscode](code.visualstudio.com) installed. Next is to clone this repository by using your terminal. If you don't have a *terminal* click on this link to [Gitbash](https://git-scm.com/downloads). Once that is all done you should be able to view the code as you please.
+
+## *About the html/css*
+
+When I received the html/css files this is how it looked before I cleaned the file.
+
+#### *Html file*
+
+
+
